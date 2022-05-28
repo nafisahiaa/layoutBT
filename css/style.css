@@ -1,6 +1,7 @@
 .header, .hero, .body, .bar, .footer{
     background-color: black;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 
